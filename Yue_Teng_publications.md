@@ -8,7 +8,7 @@
 - Wu, E., Mak, W., & Teng, Y. (2008). Application of the theory of planned behavior to acculturation: A longitudinal study on mainland Chinese students in Hong Kong. *International Journal of Psychology, 43*, 572-572.
 
 
-# Conference Presentations
+# Selected Conference Presentations
 
 - Cham, H., Hurley, L., & Teng, Y. (May 2016). *Optimizing random forests propensity scores.* Paper presented at 2016 Modern Modeling Methods (M3) Conference, Storrs, CT.
 - Mak, W. W. S. & Teng, Y. (Aug 2010). *Application of the Health Action Process Approach on condom use among men who have sex with men in Hong Kong.* Paper presented at APA 118th Annual Convention, San Diego, U.S.A.
