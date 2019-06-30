@@ -36,6 +36,9 @@ I calculated semantic distance between the model-predicted job skills and the tr
 I built a simple web application to demonstrate the model using Python and Flask. It was deployed on Google Cloud Platform, accessiable at https://skillfinder.appspot.com/
 
 Here are example results of the web app:
+Input a course description:
 ![Webapp Results1](webapp_results1.png)
+Return skills identified:
 ![Webapp Results2](webapp_results2.png)
+When no predefined skills identified:
 ![Webapp Results3](webapp_results3.png)
